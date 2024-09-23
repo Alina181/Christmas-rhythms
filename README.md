@@ -28,4 +28,4 @@
 
 ## Ссылки:
 - [Доска Miro]()
-- [Ссылка на Figma]()
+- [Ссылка на Figma](https://www.figma.com/design/J2bXo26ZTz9KlB3bn6OLzY/NEW-YEAR?node-id=0-1&t=J96z4kpVCQdNSMFZ-1)
